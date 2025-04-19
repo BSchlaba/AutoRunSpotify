@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # === CONFIGURATION ===
-PLAYLIST_URI="spotify:playlist:0Rf4qOQR1kwqB5MLFut7hS"  # Replace with your playlist URI
+PLAYLIST_URI="spotify:playlist:0Rf4qOQR1kwqB"  # Replace with your playlist URI
 
 # === LAUNCH SPOTIFY ===
 spotify & disown
