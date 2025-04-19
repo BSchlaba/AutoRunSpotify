@@ -10,9 +10,9 @@ sudo apt install xdotool
 
 after downloading script to make it exacutable:
 
-chmod +x spotify_autoplay.sh
+chmod +x spotify_quick_open.sh
 
 then go to keyboard -> shortcuts -> custom shortcut
 set the location and what key to press
 
-//home/username/spotify_autoplay.sh
+//home/username/spotify_quick_open.sh
