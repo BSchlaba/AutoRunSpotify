@@ -1,5 +1,6 @@
 # AutoRunSpotify
 simple script to run them minimize spotify
+Make sure to replace the Spotify URI with your song/playlist
 
 copy and paste this into terminal:
 
