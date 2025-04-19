@@ -1,9 +1,9 @@
 # AutoRunSpotify
-simple script to run them minimize spotify
+-simple script to run them minimize spotify
 
-Make sure to replace the Spotify URI with your song/playlist
+-Make sure to replace the Spotify URI with your song/playlist
 
-copy and paste this into terminal:
+-copy and paste this into terminal:
 
 
 sudo apt update
@@ -11,13 +11,13 @@ sudo apt update
 sudo apt install xdotool
 
 
-after downloading script to make it exacutable:
+-after downloading script to make it exacutable:
 
 
 chmod +x spotify_quick_open.sh
 
 
-then go to keyboard -> shortcuts -> custom shortcut
+-then go to keyboard -> shortcuts -> custom shortcut
 set the location and what key to press
 
 //home/username/spotify_quick_open.sh
